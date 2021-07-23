@@ -4,6 +4,9 @@ import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
+
+// firebase_ml_vision deprecated
+
 class DetailScreen extends StatefulWidget {
   @override
   _DetailScreenState createState() => _DetailScreenState();
